@@ -1,20 +1,20 @@
 {
   "name": "com.unity.cloud.ktx.webgl-2023",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "KTX for Unity WebGL 2023",
   "description": "Provides the KTX for Unity package with WebGL native libraries for Unity versions 2023.2 and newer",
   "unity": "2023.2",
   "unityRelease": "0a17",
   "_upm": {
-    "changelog": "## Changed\n- Version bump to go out of experimental."
+    "changelog": "### Fixed\n- Fixed console warning about missing main package when the main package is installed as an indirect dependency."
   },
   "upmCi": {
-    "footprint": "0795839b7f800fef1cdf97017153f22bd8b9b9f2"
+    "footprint": "7c9cf80ded339c982f44f34ee4b924761ad920ca"
   },
   "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.cloud.ktx.webgl-2023@1.0/manual/index.html",
   "repository": {
     "url": "https://github.cds.internal.unity3d.com/unity/com.unity.cloud.ktx-plugin.git",
     "type": "git",
-    "revision": "a248c8b159a8543b5267673577a6f84aee515b06"
+    "revision": "4b2d037ea3131d745b7b466ac194f0e1f2e22dc7"
   }
 }
